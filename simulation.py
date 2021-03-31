@@ -9,7 +9,7 @@ class buffon():
         self.needles = needles
         self.intersect = 0
         self.draw_grid()
-        print((2 * self.needles) / self.intersect) ##formula is 2l/xp
+        print("estimate of pi: ", (2 * 20) / (20*(self.intersect/self.needles))) ##formula is 2l/xp
 
     ##drawing out the grid
     def draw_grid(self):
