@@ -4,3 +4,6 @@ The needle problem is able to estimate the value of pi, the more needles you dro
 ---
 Basic calculations from: https://www.mathsisfun.com/activity/buffons-needle.html
 ---
+https://postimg.cc/8s2NC2Ms
+---
+https://postimg.cc/bZ8Px16h
