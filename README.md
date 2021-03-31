@@ -6,4 +6,4 @@ Basic calculations from: https://www.mathsisfun.com/activity/buffons-needle.html
 ---
 <img src=https://postimg.cc/8s2NC2Ms width="140" height="200">
 ---
-<img src=https://postimg.cc/bZ8Px16h width="140" height="200">
+<img src=https://ibb.co/smS7Z4x width="140" height="200">
